@@ -8,4 +8,4 @@
 
 
 ### UI/UX-
-![alt text](https://github.com/praveshstark/Memories-client/blob/main/src/assests/client.png?raw=true)
+![alt text](https://github.com/praveshstark/WhatsappClone/blob/main/src/assests/client.png?raw=true)
